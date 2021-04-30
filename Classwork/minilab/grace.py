@@ -9,6 +9,7 @@ class Addition:
         self._dictID = 0
 
         self.additionseries()
+        #self.Glist = list
 
 
     """Algorithm for building Fibonacci sequence, this id called from __init__"""
